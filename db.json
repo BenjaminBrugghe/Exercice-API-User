@@ -1,0 +1,62 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nom": "PATCH sur l'id 1",
+      "prenom": "PUT sur l'id 1",
+      "date_inscription": "28 Janvier",
+      "date_de_naissance": "14 Août",
+      "nationalite": "Fr"
+    },
+    {
+      "id": 2,
+      "nom": "json-serverNumber2",
+      "prenom": "typicodeNumber2",
+      "date_inscription": "08 Mars",
+      "date_de_naissance": "18 Septembre",
+      "nationalite": "En"
+    },
+    {
+      "id": 3,
+      "nom": "test POST",
+      "prenom": "test POST",
+      "date_inscription": "28 Janvier",
+      "date_de_naissance": "14 Août",
+      "nationalite": "Fr"
+    },
+    {
+      "id": 4,
+      "nom": "test POST",
+      "prenom": "test POST",
+      "date_inscription": "28 Janvier",
+      "date_de_naissance": "14 Août",
+      "nationalite": "Fr"
+    },
+    {
+      "id": 5,
+      "nom": "test POST",
+      "prenom": "test POST",
+      "date_inscription": "28 Janvier"
+    },
+    {
+      "id": 6,
+      "nom": "test POST",
+      "prenom": "test POST",
+      "date_inscription": "28 Janvier"
+    },
+    {
+      "id": 7,
+      "nom": "test POST",
+      "prenom": "test POST",
+      "date_inscription": "2023-01-06T14:34:02.217Z"
+    },
+    {
+      "id": 8,
+      "nom": "test POST",
+      "prenom": "test POST",
+      "date_inscription": "28 Janvier",
+      "date_de_naissance": "28 janvier 1995",
+      "nationalite": "Fr"
+    }
+  ]
+}
