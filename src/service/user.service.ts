@@ -34,7 +34,6 @@ export default class UserService {
       IdUnique,
       user.nom,
       user.prenom,
-      user.date_inscription,
       user.date_de_naissance,
       user.nationalite
     );
@@ -56,6 +55,6 @@ export default class UserService {
   };
 
   delete = (id: number): Promise<any> => {
-    return this.repo.delete(id).catch((err) => err);
+    return this.repo.delete(id);
   };
 }

@@ -2,7 +2,7 @@
   "user": [
     {
       "id": 1,
-      "nom": "PATCH sur l'id 1",
+      "nom": "PUT sur l'id 1",
       "prenom": "PUT sur l'id 1",
       "date_inscription": "28 Janvier",
       "date_de_naissance": "14 Août",
@@ -33,12 +33,6 @@
       "nationalite": "Fr"
     },
     {
-      "id": 5,
-      "nom": "test POST",
-      "prenom": "test POST",
-      "date_inscription": "28 Janvier"
-    },
-    {
       "id": 6,
       "nom": "test POST",
       "prenom": "test POST",
@@ -51,10 +45,74 @@
       "date_inscription": "2023-01-06T14:34:02.217Z"
     },
     {
-      "id": 8,
+      "id": 9,
       "nom": "test POST",
       "prenom": "test POST",
-      "date_inscription": "28 Janvier",
+      "date_inscription": "2023-01-06T15:16:43.574Z",
+      "date_de_naissance": "28 janvier 1995",
+      "nationalite": "Fr"
+    },
+    {
+      "id": 10,
+      "nom": "test POST",
+      "prenom": "test POST",
+      "date_inscription": "2023-01-06T15:17:32.998Z",
+      "date_de_naissance": "28 janvier 1995",
+      "nationalite": "Fr"
+    },
+    {
+      "id": 11,
+      "nom": "test POST",
+      "prenom": "test POST",
+      "date_inscription": "2023-01-06T15:19:43.086Z",
+      "date_de_naissance": "28 janvier 1995",
+      "nationalite": "Fr"
+    },
+    {
+      "id": 12,
+      "nom": "test POST",
+      "prenom": "test POST",
+      "date_inscription": "2023-01-06T15:20:08.339Z",
+      "date_de_naissance": "28 janvier 1995",
+      "nationalite": "Fr"
+    },
+    {
+      "id": 13,
+      "nom": "test POST",
+      "prenom": "test POST",
+      "date_inscription": "2023-01-06T15:20:09.826Z",
+      "date_de_naissance": "28 janvier 1995",
+      "nationalite": "Fr"
+    },
+    {
+      "id": 14,
+      "nom": "test POST",
+      "prenom": "test POST",
+      "date_inscription": "2023-01-06T15:20:10.741Z",
+      "date_de_naissance": "28 janvier 1995",
+      "nationalite": "Fr"
+    },
+    {
+      "id": 15,
+      "nom": "test POST",
+      "prenom": "test POST",
+      "date_inscription": "2023-01-06T15:20:11.633Z",
+      "date_de_naissance": "28 janvier 1995",
+      "nationalite": "Fr"
+    },
+    {
+      "id": 16,
+      "nom": "test POST",
+      "prenom": "test POST",
+      "date_inscription": "2023-01-06T15:20:12.305Z",
+      "date_de_naissance": "28 janvier 1995",
+      "nationalite": "Fr"
+    },
+    {
+      "id": 17,
+      "nom": "test POST",
+      "prenom": "test POST",
+      "date_inscription": "2023-01-06T15:20:12.847Z",
       "date_de_naissance": "28 janvier 1995",
       "nationalite": "Fr"
     }

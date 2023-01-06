@@ -12,13 +12,12 @@ export default class User {
     id: number,
     nom: string,
     prenom: string,
-    date_inscription: Date,
     date_de_naissance?: string,
     nationalite?: string
   ) {
     (this.id = id), (this.nom = nom);
     this.prenom = prenom;
-    this.date_inscription = date_inscription;
+    this.date_inscription = new Date();
     this.date_de_naissance = date_de_naissance;
     this.nationalite = nationalite;
   }
